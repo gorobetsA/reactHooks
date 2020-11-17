@@ -1,14 +1,45 @@
-import React from 'react'
+import React, {useEffect, useState} from 'react'
 
+function useLogger(value) {
+    useEffect(() => {
+        console.log("value changed: ", value)
+    }, [value])
+}
 
+function useInput(initialValue) {
+    const [value, setValue] = useState(initialValue)
+
+    const onChange = event => {
+        setValue(event.target.value)
+    }
+
+    const clear = () => setValue('')
+
+    return {
+        bind: {value, onChange},
+        value,
+        clear
+    }
+}
 
 function App() {
 
-    return (
-    <div >
+    const input = useInput('')
+    const lastName = useInput('')
 
-    </div>
+    useLogger(input.value)
+
+    return (
+            <div className={'container pt-3'}>
+                <input type="text" {...input.bind} />
+                <input type="text" {...lastName.bind} />
+
+                <button className="btn btn-warning" onClick={() => input.clear()}>Clear</button>
+                <hr/>
+                <h1>{input.value} {lastName.value}</h1>
+            </div>
   )
 }
 
 export default App
+
