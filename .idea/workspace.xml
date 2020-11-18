@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c97b0aa-cafa-43ce-b48e-f0847bc87b0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/react-hooks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/alert/Alert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/alert/AlertContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/alert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/callBack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/effect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/memo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/ref.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/state.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/itemsList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-hooks/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +41,33 @@
       <workItem from="1605704463102" duration="69000" />
       <workItem from="1605704549438" duration="566000" />
       <workItem from="1605705912621" duration="119000" />
-      <workItem from="1605706048940" duration="95000" />
+      <workItem from="1605706048940" duration="204000" />
     </task>
+    <task id="LOCAL-00001" summary="relocate folder">
+      <created>1605706199182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605706199182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="relocate folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="relocate folder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="106" key="CommitChangelistDialog2" timestamp="1605706198995">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="586" y="106" key="CommitChangelistDialog2/185.-1027.1680.1027/0.23.2048.1187@0.23.2048.1187" timestamp="1605706198995" />
+    <state x="624" y="352" key="Vcs.Push.Dialog.v2" timestamp="1605706205671">
+      <screen x="0" y="23" width="2048" height="1187" />
+    </state>
+    <state x="624" y="352" key="Vcs.Push.Dialog.v2/185.-1027.1680.1027/0.23.2048.1187@0.23.2048.1187" timestamp="1605706205671" />
   </component>
 </project>
