@@ -2,10 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c97b0aa-cafa-43ce-b48e-f0847bc87b0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/reactHooks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/react-hooks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/Main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/alert/Alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/alert/AlertContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/callBack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/effect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/memo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/examples/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/itemsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-hooks/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +71,10 @@
       <workItem from="1605537315689" duration="584000" />
       <workItem from="1605538225299" duration="75000" />
       <workItem from="1605538698769" duration="208000" />
+      <workItem from="1605704463102" duration="69000" />
+      <workItem from="1605704549438" duration="566000" />
+      <workItem from="1605705912621" duration="119000" />
+      <workItem from="1605706048940" duration="95000" />
     </task>
     <servers />
   </component>
